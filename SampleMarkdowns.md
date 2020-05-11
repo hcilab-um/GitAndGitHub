@@ -1,3 +1,5 @@
+GitHub flavored markdown can be used in Issue, Pull Request, Readme.md, other .md files and at other places on GitHub where comments are required. 
+
 
 __Sample Markdowns__
 
@@ -70,3 +72,6 @@ Headers
 Bullets
    * Bullet1
    * Bullet2
+
+Reference:
+https://guides.github.com/features/mastering-markdown/

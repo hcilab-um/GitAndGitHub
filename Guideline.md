@@ -12,7 +12,7 @@
 * Always work on a separate branch for a new development or fixing a bug.
 * Have a basic set of test cases to check that no existing functionality breaks after any major commit (and minor too if necessary).
 * Make use of tags/release labels once any milestone is achieved for the project
-* Commit each feature separately as a logical set not as one massive code after many days. 
+* Commit each feature separately as a logical set and not as one massive block of code after many days. 
 * Use staging area of Git to split source into different logical parts
 * Each commit should have a descriptive (under 50 words), self-explanatory commit message. This will be useful when one refers to their source after many days
 * Use 'Issues' function of GitHub, which provides milestones, issue classication and other features, to track new development and to log issues.

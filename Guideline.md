@@ -3,7 +3,7 @@
 
 * Refer to GitAndGitHub_UserDocument.docx for Git and GitHub jargons, command reference, installation and configuration best practices.
 * Install the latest version of Git (current 2.26.2 as of 20th April) for consistent behaviour of commands
-* Follow coding guidelines for a cleaner code. E.g. consistent notations (like Camel or Hungarian notation), no whitespaces in documents, no static analysis issues, no memory leaks, remove unnecessary comments etc.
+* Follow coding guidelines for a cleaner code. E.g. consistent notations (like Camel or Hungarian notation), no whitespaces in documents (refer guide), no static analysis issues, no memory leaks, remove unnecessary comments etc.
 * Use master branch for stable code. 
 * Feature development/bug fixing should be done on a separate (topic/feature) branch when working in a team and not directly on master branch
 * The source of this feature branch should be merged with master branch.
@@ -15,10 +15,7 @@
 * Commit each feature separately as a logical set and not as one massive block of code after many days. 
 * Use staging area of Git to split source into different logical parts
 * Each commit should have a descriptive (under 50 words), self-explanatory commit message. This will be useful when one refers to their source after many days
-* Use 'Issues' function of GitHub, which provides milestones, issue classication and other features, to track new development and to log issues.
-  When closing the issue associate it with a commit id for easy tracking of issue with commitid. 
-  E.g. Use Issue id in commit message to close an issue. 
-  close #4 at the end of a commit message. Or use a message as Associating #3 with the issue. This 
+* Use 'Issues' function of GitHub, which provides milestones, issue classication and other features, to track new development and to log issues. When closing the issue associate it with a commit id for easy tracking of issue with commitid. (refer guide)
 * Do not include files generated at runtime (e.g. binraries, log files, etc.) in repo. Use .gitignore file for the same
 * Use commandline method to use Git and GitHub instead of GUI.
 * Avoid modifying files directly on GitHub

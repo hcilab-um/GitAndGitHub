@@ -1,5 +1,5 @@
 
-## Guidelines for Git and GitHub use on Windows (For other OS, most of the guidelines are same) 
+## Guidelines for Git and GitHub  
 
 * Refer to GitAndGitHub_UserDocument.docx for Git and GitHub jargons, command reference, installation and configuration best practices.
 * Install the latest version of Git (current 2.26.2 as of 20th April) for consistent behaviour of commands
@@ -19,7 +19,7 @@
 * Do not include files generated at runtime (e.g. binraries, log files, etc.) in repo. Use .gitignore file for the same
 * Use commandline method to use Git and GitHub instead of GUI.
 * Avoid modifying files directly on GitHub
-* Keep version control versino of all source developed on GitHub for security, instead of keepign it only on local PC
+* Keep version control version of all source developed on GitHub for security, instead of keeping it only on local PC
 * Make use of Markdown in comments on GitHub
 * Readme.md markdown file is necessary in the root folder of the project as GitHub renders the Readme.md file when a user visits the directory showing its contents.
 * Use SSH for cloning instead of https if promted for password at every push/pull

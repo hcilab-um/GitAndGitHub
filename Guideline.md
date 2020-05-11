@@ -34,13 +34,11 @@
 1. git branch *new_branchname*: Create branch
 1. Make changes to the branch
 1. Commit the changes to the branch
-1. git push: If review is required before updating to master branch, else not
-1. git checkout master: Switch to master branch
-1. git pull: to sync local master branch with remote master
-1. git merge *new_branchname*: Merge branch contents to master
-1. git push: Push local master branch to remote
-1. git branch -d *new_branchname*: Delete the new branch
-1. Delete remote branch *new_branchname*, if created
+1. git push: To update the remote branch
+1. Create Pull request on Github for code review
+1. After review, merge the branch to master on GitHub
+1. Delete remote branch *new_branchname*
+1. Delete local branch *new_branchname*
 
 ## Working steps that can be used when working alone
 Even though direct commit to master branch can be done, it is still recommended to follow above steps i.e. use a separate branch for development

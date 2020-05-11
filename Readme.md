@@ -1,4 +1,4 @@
-#Read me for GitHub doc
+# Readme for GitAndGitHub document
 
 This document is created as an easy reference for members of HCI lab at University of Manitoba
 

@@ -76,5 +76,5 @@ Headers
 ###### This is an <h6> tag
    
 Bullets
-   *Bullet1
-   *Bullet2
+   * Bullet1
+   * Bullet2

@@ -1,9 +1,9 @@
-GitHub flavored markdown can be used in Issue, Pull Request, Readme.md, other .md files and at other places on GitHub where comments are required. 
+GitHub flavored markdown is used to generate rich text and can be used in Issue, Pull Request, Readme.md, other .md files and at other places on GitHub where comments are required. 
 
 
 __Sample Markdowns__
 
-https://guides.github.com/features/mastering-markdown/
+View source to see how to generate the samples below
 
 Emojis
 :grinning:

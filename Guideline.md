@@ -3,12 +3,12 @@
 
 * Refer to GitAndGitHub_UserDocument.docx for Git and GitHub jargons, command reference, installation and configuration best practices.
 * Install the latest version of Git (current 2.26.2 as of 20th April) for consistent behaviour of commands
-* Follow coding guidelines for a cleaner code. E.g. consistent notations (like Camel or Hungarian notation), no whitespaces in documents
+* Follow coding guidelines for a cleaner code. E.g. consistent notations (like Camel or Hungarian notation), no whitespaces in documents, no static analysis issues, no memory leaks, remove unnecessary comments etc.
 * Use master branch for stable code. 
 * Feature development/bug fixing should be done on a separate (topic/feature) branch when working in a team and not directly on master branch
 * The source of this feature branch should be merged with master branch.
 * Rebasing should not be done for remote branches. (It will cause inconvenience to the other users use use your soure as baseline for dev)
-* Avoid rebase for local branches too. The minor benefit of linear commits is not signification.
+* Avoid rebase for local branches too. The minor benefit of linear commits is not significant.
 * Always work on a separate branch for a new development or fixing a bug.
 * Have a basic set of test cases to check that no existing functionality breaks after any major commit (and minor too if necessary).
 * Make use of tags/release labels once any milestone is achieved for the project
